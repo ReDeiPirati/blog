@@ -18,11 +18,11 @@ Here are the highlights:
 - Learned Kubernetes, Docker, Docker Swarm, CI/CD, TDD, SOA, MicroServices, and Serverless Architecture
 from Victor Farcic books, [podcast](https://www.devopsparadox.com/) and [blog post](https://technologyconversations.com/).
 - Learned Pentesting & Cyber Security from [Offensive Security courses](https://www.offensive-security.com/), CTF, [VulnHub](https://www.vulnhub.com/), books and [OWASP](https://wiki.owasp.org/index.php/Main_Page).
-- Still studying Game Theory, [Human & Animal Biology Behaviour](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D), and System Design & Thinking  to understand how intelligent agents work & cooperate in complex systems.
+- Still studying Game Theory, [Human & Animal Biology Behaviour](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D), and System Design & Thinking to understand how intelligent agents work & cooperate in complex systems.
 
 ### Education
 
-![]({{ site.baseurl }}/images/graduation_day.png "FYI I'm wearing a [laurel wreath](https://en.wikipedia.org/wiki/Laurel_wreath)")
+![]({{ site.baseurl }}/images/graduation_day.png "FYI I'm wearing a laurel wreath: https://en.wikipedia.org/wiki/Laurel_wreath")
 
 I graduated 🎓 in Computer Science at Bologna University. Here are the highlights:
 - Took courses on Algorithms & Data Structures, Linear Algebra, Statistic, and Numerical Calculus.
@@ -37,3 +37,13 @@ I was an athlete, I know what it means to work hard for short, middle, and long-
 
 - Swimmer 🏊‍♂️ (age 10-24), I was in the Italian Top 10 rank in 50m freestyle (got also Europian Top 10 rank in the past) and 100m fly for about ten years - class 1991. During the last 3 years of my career, I was trained by one of the best Italian swimming coaches in a team with 5 Olympic athletes. I achieved outstanding results given my expectations.
 - I also practiced Triathlon (🏊‍♂️,🚴‍♂️, and 🏃‍♂️), Modern Pentathlon (🏊‍♂️, 🏃‍♂️, 🤺, 🔫, and 🏇) and Soccer (🦵⚽️) at age 7-10.
+
+
+### Wing Chun Practictioner
+
+ Learned (actually I'm still learning Chum Kiu and Chi Sao) Wing-Chun applied to self-defense to protect me, my family, and the people around me. I’ve also helped my sifu to teach self-defense to women. _If I have to fight, it's to protect, not to harm._
+
+
+### Magician
+
+During high school, I spent a whole year to practice illusionism. The best trick I learned and performed several times was [David Copperfield's Pencil Penetration](https://youtu.be/RzQLQRaigj4). What passionated me was to see the faces of people, expecially the very rational ones, get puzzled by illusions.

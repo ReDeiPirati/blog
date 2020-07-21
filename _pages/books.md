@@ -4,7 +4,9 @@ title: Books
 permalink: /books/
 ---
 
-Here are the books that shaped the way I think and my mental models. Note: _they are not sorted by importance_.
+Here are the books that shaped the way I think and my mental models. The [machine and deep learning books](https://blog.floydhub.com/best-machine-learning-books/) I read played a huge contributions as well.
+
+Note: _the list below is not ranked by importance_.
 
 _TODO: Consider adding a _When you should read it_ section. Reading the right book during a particular moment of your life or after a certain event can unlock new potential._
 
