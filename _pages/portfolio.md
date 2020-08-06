@@ -20,6 +20,7 @@ I was responsible to create the items for the backlog that came from the data co
 
 E.g. of features that I successfully deployed are: FloydHub’s In-App notifications, improved UX of developer tool when mounting and uploading data - [floyd-cli](https://github.com/floydhub/floyd-cli).
 
+![]({{ site.baseurl }}/images/portfolio/in-app-notification.png "E.g. In-App Notification: Command not Found")
 
 ### Customer Support
 
