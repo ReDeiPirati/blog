@@ -46,4 +46,4 @@ I was an athlete, I know what it means to work hard for short, middle, and long-
 
 ### Magician
 
-During high school, I spent a whole year to practice illusionism. The best trick I learned and performed several times was [David Copperfield's Pencil Penetration](https://youtu.be/RzQLQRaigj4). What passionated me was to see the faces of people, expecially the very rational ones, get puzzled by illusions.
+During high school, I spent a whole year practicing illusionism. The best trick I learned and performed several times in was [David Copperfield's Pencil Penetration](https://youtu.be/RzQLQRaigj4). Nowadays you can find an explanations of the best illusions on YouTube very quickly and easily, but 15 years ago it wasn't. What passionated me was to see the faces of people, expecially the very rational ones, get puzzled by illusions.
