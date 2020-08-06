@@ -6,6 +6,8 @@ permalink: /portfolio/
 
 ## FloydHub
 
+[FloydHub](https://www.floydhub.com/) (YC W17) is Heroku for deep learning. A Platform-as-a-Service for training and deploying your deep learning models in the cloud. Floyd takes care of the engineering grunt work so you can focus on the core of your problem.
+
 ### Product Management
 
 At FloydHub we were extremely customer-obsessed, and I'm particularly proud of the experience I helped to create.
