@@ -32,13 +32,13 @@ I helped thousand of developers and companies building & training AI models 🚀
 
 ### Content Marketing
 
-Everything published on the [FloydHub blog](https://blog.floydhub.com) after March 2019 was planned, structured, revisioned, and co-edited by me. You can also find my contributions, [here](https://blog.floydhub.com/author/alessio/).
+Everything published on the [FloydHub blog](https://blog.floydhub.com) after March 2019 was planned, structured, revisioned, and co-edited by me. I set up and refined several processes, hired up to 20 technical writers & 2 editors. You can also find my contributions, [here](https://blog.floydhub.com/author/alessio/).
 
 I mainly focused our distribution on HackerNews: we got the front with 14 articles over 27 released. I cannot say to have reverse-engineered HN and its audience, but I was probably just a few steps away, not to mention that being a YC company in an extremely hyped field certainly matters. It happened a couple of times that we published a new article and a few minutes later it was already on HN with 4/5 upvotes, that was something that made me proud of the work I did.
 
 Although I focused my efforts on HN, the articles were crafted to capture organic searches and get ranked on the 1st page of Google for the keywords of interest in the middle-term(2-3 months). HN was my leverage to speed up that process and at the same time increase our web presence.
 
-Despite the time & resource constraints I had, I was able to coach & help the recurring writers to progress in their careers: Ajay has written a chapter for a new O’Reilly NLP book, Cathal transitioned from SWE to MLE at Intercom, Sayak increased his web presence & gave a lot of talks around the world with the content he created with us, and Philip has released a book Writing for Software Developers. All those guys were already great when I met them for the first time, and with my work, I helped them to increase the self-confidence in their skills and get the exposure they deserved.
+Despite the time & resource constraints I had, I was able to coach & help the recurring writers to progress in their careers: [Ajay](https://blog.floydhub.com/author/ajay/) has written a chapter for a new O’Reilly NLP book, [Cathal](https://blog.floydhub.com/author/cathal/) transitioned from SWE to MLE at Intercom, [Sayak](https://sayak.dev/) increased his web presence & gave a lot of talks around the world with the content he created with us, and [Philip](https://philipkiely.com/) has released a book [Writing for Software Developers](https://philipkiely.com/wfsd/). All those guys were already great when I met them for the first time, and with my work, I helped them to increase the self-confidence in their skills and get the exposure they deserved.
 
 
 [^1]: I'm planning to bring this on the blog in the near future.
