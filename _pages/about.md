@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Hi 👋, I'm Alessio, your friendly neighborhood pirate 🏴‍☠️ and future King of Pirates. I'm currently working as Product Manager at [FloydHub](https://www.floydhub.com/) (YC W2017) [^1] and co-founder at [Floyd Labs - FloydHub's AI tactical consulting](https://www.floydlabs.ai/), where I've helped thousands of developers and companies to build & train AI (i.e. machine and deep learning) models.
+Hi 👋, I'm Alessio, your friendly neighborhood pirate 🏴‍☠️. I'm currently working as Product Manager at [FloydHub](https://www.floydhub.com/) (YC W2017) [^1], where I've helped thousands of developers and companies to build & train AI (i.e. machine and deep learning) models.
 
 Previously, I failed as a startup founder. That's a good, but hard for me to tell, story that I'll certainly post on the blog in the future. Stay tuned!
 
